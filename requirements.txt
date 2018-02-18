@@ -1,0 +1,13 @@
+aiobotocore
+boto3
+requests
+
+xlrd
+python-pptx
+python-docx
+pillow
+lxml
+odfpy
+
+uriutils
+

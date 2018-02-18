@@ -1,0 +1,12 @@
+{
+    "name": "textractor",
+    "description": "Extract text from binary documents.",
+    "runtime": "python3.6",
+    "role": "arn:aws:iam::396012285448:policy/newforapex",
+    "defaultEnvironment": "development",
+    "environment": {
+        "LOG_LEVEL": "INFO",
+        "TEXTRACTOR_OCR": "textractor_ocr",
+        "TEXTRACTOR_SIMPLE": "textractor_simple"
+    }
+}
